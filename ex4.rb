@@ -49,3 +49,4 @@ def calcula_porcentagem(valor, valores)
 
 
 # duvida - se possui ligação a questao 3 ou não
+# Fiz 2 versoes, com ou sem a versão anterior
