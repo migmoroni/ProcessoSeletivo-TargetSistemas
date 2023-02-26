@@ -1,0 +1,6 @@
+Estou enviando 2 arquivos pelo excercicio 4, pela razão de estar em dúvida quanto ao escopo.
+Enviei email, todavia hoje sendo sábado, não seria escolha boa esperar uma possível resposta. Assim, fiz duas versões:
+
+No arquivo ex4_Resolution1.rb, considerei que o excercicio 3 faz parte da resposta do 4, considerando a soma do faturamento mensal.
+
+No arquivo ex4_Resolution2.rb, considerei que o excercicio 3 NÃO faz parte da resposta do 4, considerando como faturamento mensal, a soma dos valores dos faturamentos dos estados.

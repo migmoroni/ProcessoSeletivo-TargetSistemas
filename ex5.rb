@@ -1,4 +1,4 @@
-# Realiza a inversão da string
+# Método que realiza a inversão da string
 def inverte_string(str)
     inverted_str = ""
     for i in (0..str.length-1)
@@ -7,7 +7,7 @@ def inverte_string(str)
     return inverted_str
 end
 
-# Define entre digitar um texto ou usar um já incluido no programa
+# Método que define entre digitar um texto ou usar um já incluido no programa
 def define(va)
     if (va == "t")
         puts "Digite o texto:"
@@ -18,7 +18,7 @@ def define(va)
     end
 end
 
-
+# Inicio do Programa
 puts "Digite 't' se prefere inserir o próprio texto. Se quiser um texto padrão, digite qualquer outra tecla."
 va = gets.chomp
 

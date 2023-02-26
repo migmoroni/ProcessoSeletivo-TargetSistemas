@@ -55,7 +55,7 @@ def dias_faturamento_acima_media(data)
     return dias_acima_media
 end
 
-# Inicia o programa
+# Inicio o programa
 data = extract_data_from_json_file('arquivos/dados.json')
 
 puts data.inspect

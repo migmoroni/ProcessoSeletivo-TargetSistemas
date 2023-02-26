@@ -1,4 +1,4 @@
-# Método Fibonacci: Realiza somas sucessivas até que atinja o valor ou próximo do desejado que se quer encontrar
+# Método que realiza somas sucessivas até que atinja o valor ou próximo do desejado que se quer encontrar
 def fibonacci(n)
   num1 = 0
   num2 = 1
@@ -11,7 +11,7 @@ def fibonacci(n)
   return num
 end
 
-# Método verify_Number: Verifica se o numero desejado faz parte da sequencia de fibonacci
+# Método que verifica se o numero desejado faz parte da sequencia de fibonacci
 def verify_Number(compare)
   
   fib = fibonacci(compare)

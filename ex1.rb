@@ -8,4 +8,5 @@ while k < indice do
   
 end
 
+# Inicio do Programa
 puts soma
